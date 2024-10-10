@@ -1,0 +1,2 @@
+- Write the react base configuration file from scratch or atleast try to understand how it works
+- 

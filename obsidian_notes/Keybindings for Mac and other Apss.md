@@ -1,0 +1,10 @@
+- Ctrl-space activates ray cast
+- ⌘ + ;/ → cycle through tabs
+- right_shift + h/j/k/l → to use left/down/up/right arrows
+- right_shift + w/b → to move word forward/backward
+- right_shift + c /v → to copy and paste
+- right_shift + t/y → to open and close tabs in any browser
+- right_shift + d → backspace
+- right_shift + f → delete
+- right_shift + q → single quote
+- right_shift + u/o → to move to left/right tabs

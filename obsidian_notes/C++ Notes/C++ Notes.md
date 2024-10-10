@@ -1,0 +1,24 @@
+- `#include<iostream>`  contains the standard standard input output libraries
+- Use `std::cout<< "string "` to print a string to the terminal
+- We can use the namespace std` library  to avoid writing std:: all the time 
+- We can  `endl or \n ` but endl  removes the buffer while going to the next line 
+- `int` is used for integers and `double` or `float` is used for floating point numbers,`char`  for characters,`string` datatype for strings,`bool` for boolean values.
+- `const` can be used as a prefix for all datatypes to make the value of the variable constant throughout the program.
+- 
+- One can use the `namespace instance name{ int variable name;}` function to create a new  virtual instance of that variable which can be accessed by `instance name::variable name`
+- `typedef datatype/keyword new identifier name` can be used to give new identifier names for already existing data types if they are too long to type frequently.
+- The same can be done by using `using` keyword by `using  new identifier name = datatype or certain keyword` 
+- All the arithmetic operations applicable in C work in C++ too.
+- Type conversion is of two types implicit and explicit.Implicit is done  by the compiler and explicit is done by the user by `(datatype) variable name` eg:  `int x;(float)x;` 
+- `cin >> variable to store` to take input from the user.
+- `getline(input stream, variable to store,delimiter)` to take a string as input. By default the delimiter is `\n`
+- `cin >> ws` to ignore the white spaces in buffer while taking input like a char after an int .
+- `max(a,b)`  & `min(a,b)`   is used to find max and min of two numbers.
+- All the math related functions are stored in `cmath`
+- Some cmath functions are: `pow(num,power),sqrt(num),abs(num),round(num),floor(num),ceil(num)`
+- `if(condition){} else if(condition){} else(condition){}` are conditional statements.
+- `switch(value){}`  works same as switch in C.
+- `condition ? true case block : false case block`  ternary operator.
+- All the logical operators like ||(logical or) , &&(logical and)
+
+

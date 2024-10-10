@@ -1,0 +1,6 @@
+- To create an array use `numpy.array([row1 elements],.....[rowN elements],dtype='int32'(for eg))`.Arrays can be multiplied directly like a1* a2 to product the array elements respectively
+- `array.ndim` -> returns the no of  dimensions of array.
+- `array.shape` -> returns (row,coloumns).
+- For a 1D array, `shape` returns a tuple with a single value representing the number of elements in the array.
+- `a.dtype` -> returns the data type used for storing the array.
+- 
